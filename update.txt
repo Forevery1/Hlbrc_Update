@@ -1,6 +1,6 @@
 {
   "update": "Yes",//有新版本
-  "new_version": "1.2",//新版本号
+  "new_version": "1.1",//新版本号
   "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk", //apk下载地址
   "update_log": "1，更新测试\r\n",//更新内容
   "target_size": "5M",//apk大小
